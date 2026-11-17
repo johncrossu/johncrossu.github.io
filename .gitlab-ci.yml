@@ -4,6 +4,7 @@ pages:
     - mkdir -p public
     - cp index.html public/
     - cp photo.jpg public/
+    - cp dashboard.jpg public/
   artifacts:
     paths:
       - public
